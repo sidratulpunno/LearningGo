@@ -28,7 +28,7 @@ It’s a great choice for:
 
 ### Install Go
 
-Visit the [official Go download page](https://golang.org/dl/) and download the installer for your operating system and start rocking.
+Visit the [official Go download page](https://golang.org/dl/) and download the installer for your operating system.
 
 ### Verify Installation
 
@@ -36,6 +36,7 @@ Open a terminal or command prompt and run:
 
 ```bash
 go version
+
 
 
 
