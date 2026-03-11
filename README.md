@@ -1,7 +1,7 @@
 ﻿# 🐹 Learning Go (Golang)
 
 Welcome to my journey of learning the **Go programming language (Golang)**!  
-This repository is a curated collection of notes, code examples, exercises, and resources as I explore Go's simplicity, efficiency, and concurrency features.
+This repository is a curated collection of notes, code examples, exercises and resources as I explore Go's simplicity, efficiency, and concurrency features.
 
 Whether you're learning Go too or just exploring, feel free to browse and contribute!
 
@@ -36,4 +36,5 @@ Open a terminal or command prompt and run:
 
 ```bash
 go version
+
 
